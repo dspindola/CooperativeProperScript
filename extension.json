@@ -7,6 +7,16 @@
       "name": "Example tool",
       "handler": "/tool",
       "icon": "/replit.svg"
+    },
+    {
+      "name": "Config",
+      "handler": "/config",
+      "icon": "/replit.svg"
+    },
+    {
+      "name": "Dashboard",
+      "handler": "/dashboard",
+      "icon": "/replit.svg"
     }
   ]
 }
